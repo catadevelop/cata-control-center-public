@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkrepair_sheet_system_console_cors"]=self["webpackChunkrepair_sheet_system_console_cors"]||[]).push([[594],{4824:function(e,s,n){n.r(s),n.d(s,{default:function(){return _}});var r=n(6768);const t={class:"about"},u=(0,r.Lk)("h1",null,"This is an about page",-1),a=[u];function c(e,s){return(0,r.uX)(),(0,r.CE)("div",t,a)}var o=n(1241);const i={},l=(0,o.A)(i,[["render",c]]);var _=l}}]);
-//# sourceMappingURL=about.faf6d7b8.js.map
